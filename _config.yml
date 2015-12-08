@@ -1,0 +1,28 @@
+name: Banner
+favicon: null
+layout_spectrum: 0.6640153310727328
+typography_spectrum: 0.5125323582906276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5995329525321722
+  lightness: 0.1320769723970443
+  saturation: 0.3876037667505443
+  rhythmicContrast: 0.7203273370396346
+purpose: []
